@@ -1,0 +1,4 @@
+py-cord[voice]>=2.6
+faster-whisper>=1.0
+numpy
+python-dotenv
